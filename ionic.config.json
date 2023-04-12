@@ -1,0 +1,7 @@
+{
+  "name": "managerStaff",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
